@@ -17,7 +17,7 @@ Hello! I'm Ivan, a passionate Data Analyst and Data Scientist Enthusiast with a 
 # 🚀 What I’m Currently Working On
 - Expanding my knowledge of Machine Learning and Deep Learning
 - Creating more in-depth data visualization dashboards with Power BI
-- Improving foreign language skills by learning English and Korean
+- Improving foreign language skill by learning English
 
 # 💼 Career Goals
 I aim to further my career in the field of Data Analyst, Data Science, and Business Intelligence by applying my skills to real-world challenges. I'm particularly interested in how data analytics can enhance decision-making in industries like Insurance, Information & Technology, Banking, and Manufacturing.
