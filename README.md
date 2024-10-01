@@ -27,4 +27,9 @@ I aim to further my career in the field of Data Analyst, Data Science, and Busin
 - [Portfolio](https://early-hair-f33.notion.site/Portfolio-0095cc7e61c045b6bcaf388830bf0420)
 - [Email](ivanrasyid89@gmail.com)
 
+# GitHub Statistics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanrasyid89&show_icons=true&theme=radical)
+![Your GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanrasyid89&layout=compact&theme=radical)
+
+
 Feel free to explore my projects, give feedback, and collaborate! 
