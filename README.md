@@ -8,3 +8,8 @@ Hello! I'm Ivan, a passionate Data Analyst and Data Scientist Enthusiast with a 
 - 🤖 Machine Learning & Modeling: Scikit-Learn, TensorFlow, Keras, NLTK
 - 🗄 Database Management: MySQL
 - 📅 Project Management: Trello
+
+# 🌟 My Key Projects
+- 🎬 Netflix Reviews Sentiment Analysis: An NLP project analyzing Netflix user reviews using sentiment classification techniques.
+- 🚲 Bike Store Sales Analysis: Advanced SQL queries and Power BI dashboards to analyze sales performance, customer behaviors, and trends.
+- 📱 Mobile Price Classification: A classification model to predict mobile phone prices using Neural Networks and XGBoost.
