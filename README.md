@@ -26,6 +26,7 @@ I aim to further my career in the field of Data Analyst, Data Science, and Busin
 - [LinkedIn](https://www.linkedin.com/in/ivanrasyid89)
 - [Portfolio](https://early-hair-f33.notion.site/Portfolio-0095cc7e61c045b6bcaf388830bf0420)
 - [Email](ivanrasyid89@gmail.com)
+
 Feel free to explore my projects, give feedback, and collaborate! 
 
 # GitHub Statistics
