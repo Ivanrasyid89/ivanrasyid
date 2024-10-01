@@ -4,7 +4,7 @@ Hello! I'm Ivan, a passionate Data Analyst and Data Scientist Enthusiast with a 
 
 # 🔧 Skills and Tools:
 - 🐍 Programming Languages: Python, R, SQL
-- 📊 Data Analysis & Visualization: Power BI, SPSS, Microsoft Excel
-- 🤖 Machine Learning & Modeling: Scikit-Learn, TensorFlow, Keras
-- 🗂 Version Control: GitHub
-- 📅 Project Management: Trello, Notion
+- 📊 Data Analysis & Visualization: Power BI, SPSS, Microsoft Excel, Minitab
+- 🤖 Machine Learning & Modeling: Scikit-Learn, TensorFlow, Keras, NLTK
+- 🗄 Database Management: MySQL
+- 📅 Project Management: Trello
